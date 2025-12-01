@@ -1,0 +1,24 @@
+{
+  "layers": {
+    "wolf_body": [
+      {
+        "texture": "jaavaa:starsteel"
+      }
+    ],
+    "horse_body": [
+      {
+        "texture": "jaavaa:starsteel"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "jaavaa:starsteel"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "jaavaa:starsteel"
+      }
+    ]
+  }
+}
